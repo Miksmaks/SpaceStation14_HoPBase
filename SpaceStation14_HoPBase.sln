@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceStation14_HoPBase", "SpaceStation14_HoPBase.csproj", "{F06327F6-0185-43CD-8956-2F33CB19FB7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06327F6-0185-43CD-8956-2F33CB19FB7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06327F6-0185-43CD-8956-2F33CB19FB7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06327F6-0185-43CD-8956-2F33CB19FB7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06327F6-0185-43CD-8956-2F33CB19FB7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED97E7CF-5C8A-4416-86F9-97FE8483DC94}
+	EndGlobalSection
+EndGlobal
